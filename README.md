@@ -9,21 +9,8 @@ A simple tool that will convert your plain text file generated from Kaspersky Pa
 </p>
 
 ## 🚀 Getting Started
-
-Follow these steps to get started with the project:
-
-1. **Open the solution file (.sln):**
-   - Locate the project's solution file with the extension `.sln`.
-   - Double-click the solution file to open it in your preferred integrated development environment (IDE) like Visual Studio.
-
-2. **Build the Project:**
-   - Once the solution is open, ensure you have selected the appropriate build configuration based on your system architecture:
-     - For 32-bit systems, select "Release (x86)".
-     - For 64-bit systems, select "Release (x64)".
-   - Build the project to compile the code and generate the executable file.
-     - In Visual Studio, you can build the project by clicking on the "Build" menu and selecting "Build Solution".
-
-By following these steps, you will successfully open the project in your IDE and build it, preparing the environment for further development or execution. If you encounter any issues during this process, refer to the project documentation or seek assistance from the project's community or support channels.
+1. Open the solution file (.sln).
+2. Build the project in Realese (x86) or Release (x64).
 
 ## 🧪 Usage
 
