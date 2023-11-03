@@ -26,7 +26,7 @@ Follow these steps to get started with the project:
 By following these steps, you will successfully open the project in your IDE and build it, preparing the environment for further development or execution. If you encounter any issues during this process, refer to the project documentation or seek assistance from the project's community or support channels.
 
 ## 🧪 Usage
-
+```
 1. **Place the file in a simple directory root (E.g: C:\)**
 2. **Open CMD and navigate to the directory where the `kcsv.exe` file is located: cd path\to\directory**
 3. **Place your Kaspersky Password Manager exported .txt file in the same location as the executable**
@@ -34,3 +34,4 @@ By following these steps, you will successfully open the project in your IDE and
 5. **Hit Enter, and it will generate the `output.csv` file in the same directory as the executable.**
 
 For example, if your file is named `passwords.txt`, the command would be: kcsv.exe passwords.txt output.csv
+```
