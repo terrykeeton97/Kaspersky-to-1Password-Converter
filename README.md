@@ -14,8 +14,8 @@ A simple tool that will convert your plain text file generated from Kaspersky Pa
 
 ## 🧪 Usage
 
-1. **Place the file in a simple directory root (E.g: C:\)**
-2. **Open CMD and navigate to the directory where the `kcsv.exe` file is located: `cd path\to\directory`**
+1. **Place all of the files in a simple directory root (E.g: C:\)**
+2. **Open CMD as Administrator and navigate to the directory where the `kcsv.exe` file is located: `cd path\to\directory`**
 3. **Place your Kaspersky Password Manager exported .txt file in the same location as the executable**
 4. **In CMD, type the following command, replacing `YOURFILENAME.txt` with the name of your exported .txt file: `kcsv.exe YOURFILENAME.txt output.csv`**
 5. **Hit Enter, and it will generate the `output.csv` file in the same directory as the executable.**
